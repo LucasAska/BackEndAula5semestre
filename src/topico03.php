@@ -34,4 +34,6 @@ $decimal=$valor-$inteiro;
 echo "<br>valor = $inteiro";
 echo "<br>valor = ".$decimal;
 printf("<br>valor = %.3f",$decimal);
+define("PI", 3.1415);
+echo "<br>PI = ".PI;
 ?>
